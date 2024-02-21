@@ -1,0 +1,70 @@
+.vagas-introducao {
+    padding: 6em 7em 0;
+    text-align: center;
+}
+
+.vagas-introducao__titulo {
+    padding: 0.25rem 0.75rem;
+    color: var(--cor-secundaria);
+    background-color: var(--cor-terciaria);
+    display: inline;
+    border-radius: 1rem;
+    font-weight: 500;
+    font-size: 14px;
+}
+
+.vagas-introducao__subtitulo {
+    font-size: 36px;
+    font-weight: 600;
+    line-height: 44px;
+    padding: 1rem 0 1.25rem;
+}
+
+.vagas-introducao__paragrafo {
+    line-height: 30px;
+    font-size: 20px;
+    color: var(--cor-font-secundaria);
+    padding-bottom: 4rem;
+}
+
+.vagas-introducao__imagem {
+    width: 100%;
+}
+
+.vagas-desenvolvimento {
+    padding: 0 21em;
+}
+
+.vagas-lista {
+    padding-top: 4em;
+}
+
+.vagas-lista__titulo {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    padding-bottom: 0.5rem;
+}
+
+.vagas-lista__itens {
+    border: 1px solid #EAECF0;
+    border-radius: 1em;
+    padding: 1.5em 1.5em 1.75em;
+    margin-top: 1.5em;
+}
+
+.vagas-lista__itens__titulo {
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 28px;
+    padding-bottom: 2rem;
+}
+
+.vagas-lista__itens__texto {
+    font-weight: 500;
+    color: var(--cor-font-secundaria);
+}
+
+.vagas-lista__itens__texto-salario {
+    padding-left: 1.5em;
+}

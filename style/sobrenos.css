@@ -1,0 +1,52 @@
+.sobre-nos-introducao {
+    padding: 6em 20.25em;
+    text-align: center;
+}
+
+.sobre-nos__titulo {
+    font-weight: 600;
+    color: var(--cor-secundaria);
+}
+
+.sobre-nos__subtitulo {
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 60px;
+    padding: 1.5rem 0 2.25rem;
+}
+
+.sobre-nos__paragrafo {
+    font-size: 20px;
+    color: var(--cor-font-secundaria);
+    line-height: 30px;
+}
+
+.sobre-nos__lista {
+    display: flex;
+    justify-content: space-between;
+    gap: 2em;
+    padding: 0 7em 6em;
+}
+
+.sobre-nos__lista__conteudo {
+    width: 24%;
+    list-style-type: none;
+}
+
+.sobre-nos__lista-titulo {
+    font-weight: 600;
+    font-size: 60px;
+    line-height: 72px;
+    color: var(--cor-secundaria);
+}
+
+.sobre-nos__lista-subtitulo {
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 28px;
+    padding: 0.75rem 0 0.5rem;
+}
+
+.sobre-nos__lista-paragrafo {
+    color: var(--cor-font-secundaria);
+}
